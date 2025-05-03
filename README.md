@@ -11,7 +11,7 @@ This will compile the `qemu-config` executable.
 ## Usage
 
 ```
-./qemu-yaml <config_file> [--dry-run]
+./qemu-config <config_file> [--dry-run]
 ```
 
 ## Configuration 
